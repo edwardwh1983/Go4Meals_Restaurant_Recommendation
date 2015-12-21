@@ -1,4 +1,4 @@
-Android app for restaurants recommendation
+Web service for restaurants recommendation
 =====================
 This is a project to develop an Android app for restaurants recommendations.
 
